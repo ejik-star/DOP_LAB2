@@ -1,0 +1,4 @@
+{
+  "name": "dop_lab2",
+  "install": "make build"
+}
